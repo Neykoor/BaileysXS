@@ -1,13 +1,13 @@
 {
-  "name": "BttonXY",
+  "name": "BaileysXS",
   "version": "9.6.0",
-  "description": "Ryzewa - Librería JavaScript avanzada para interactuar con la API de WhatsApp Web usando WebSocket. Fork mejorado de Baileys con mensajes enriquecidos, interactivos y reporting tokens.",
+  "description": "BaileysXS - Librería JavaScript avanzada para interactuar con la API de WhatsApp Web usando WebSocket. Fork mejorado de Baileys con mensajes enriquecidos, interactivos y reporting tokens.",
   "keywords": [
     "whatsapp",
     "whatsapp-bot",
     "whatsapp-api",
     "baileys",
-    "ryzewa",
+    "baileysxs",
     "multi-device",
     "websocket",
     "interactive-messages",
@@ -15,9 +15,13 @@
     "buttons",
     "carousel"
   ],
-  "homepage": "https://github.com/Neykoor/BttonXY",
+  "homepage": "https://github.com/Neykoor/BaileysXS",
   "repository": {
-    "url": "git@github.com:Neykoor/BttonXY.git"
+    "type": "git",
+    "url": "git+https://github.com/Neykoor/BaileysXS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neykoor/BaileysXS/issues"
   },
   "license": "MIT",
   "author": "Neykoor",
