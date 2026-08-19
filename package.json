@@ -15,12 +15,12 @@
     "buttons",
     "carousel"
   ],
-  "homepage": "https://github.com/Davizuni17/Ryzewa",
+  "homepage": "https://github.com/Neykoor/BttonXY",
   "repository": {
-    "url": "git@github.com:Davizuni17/Ryzewa.git"
+    "url": "git@github.com:Neykoor/BttonXY.git"
   },
   "license": "MIT",
-  "author": "Ryze",
+  "author": "Neykoor",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
