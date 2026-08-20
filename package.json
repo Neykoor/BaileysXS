@@ -1,6 +1,6 @@
 {
   "name": "baileysxs",
-  "version": "9.6.0",
+  "version": "9.6.1",
   "description": "baileysxs - Librería JavaScript avanzada para interactuar con la API de WhatsApp Web usando WebSocket. Fork mejorado de Baileys con mensajes enriquecidos, interactivos y reporting tokens.",
   "keywords": [
     "whatsapp",
