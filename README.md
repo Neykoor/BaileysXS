@@ -1063,7 +1063,7 @@ const sock = makeWASocket({ logger: { level: 'debug' } });
 <p align="center">
   <img src="https://github.com/Neykoor.png" width="120" height="120" alt="Neykoor" style="border-radius: 50%;" />
   <br>
-  <strong>Ryze</strong>
+  <strong>Neykoor</strong>
 </p>
 
 ---
