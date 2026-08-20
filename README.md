@@ -1,5 +1,5 @@
   <h1 align="center">
- <span style="color:#25D366;">[🟢] Ryze</span> <span style="color:#FFFFFF;">WhatsApp Web API</span>
+ <span style="color:#25D366;">[🟣] Baileysxs</span> <span style="color:#FFFFFF;">WhatsApp Web API</span>
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 ---
-⊹ **Ryze** es una librería de JavaScript ligera y completa para interactuar con la API Web de WhatsApp mediante WebSocket.
+⊹ **Baileysxs** es una librería de JavaScript ligera y completa para interactuar con la API Web de WhatsApp mediante WebSocket.
 
 > [!IMPORTANT]  
 > Este proyecto es una versión mejorada de Baileys, diseñada específicamente para facilitar el uso y corregir errores comunes en el desarrollo de bots de WhatsApp.
@@ -1061,7 +1061,7 @@ const sock = makeWASocket({ logger: { level: 'debug' } });
 ## 🐣 Autor [ Editor ]
 
 <p align="center">
-  <img src="https://github.com/Ryze.png" width="120" height="120" alt="Ryze" style="border-radius: 50%;" />
+  <img src="https://github.com/Neykoor.png" width="120" height="120" alt="Neykoor" style="border-radius: 50%;" />
   <br>
   <strong>Ryze</strong>
 </p>
@@ -1074,4 +1074,4 @@ Este proyecto está licenciado para **uso personal y no comercial únicamente**.
 Se permite la redistribución, modificación o renombrado para propósitos personales.  
 **El uso comercial, reventa está estrictamente prohibido.**
 
-Derechos reservados por **Ryze**.
+Derechos reservados por **Neykoor**.
