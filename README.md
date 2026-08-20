@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Versión-9.6.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Versión-9.6.0-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Estado-Beta-FFAA00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CommonJS-✔-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
