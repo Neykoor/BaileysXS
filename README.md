@@ -72,11 +72,11 @@
 > Copia y pega los comandos en tu terminal.
 
 ```bash
-npm install github:Ryze/Ryze
+npm install baileysxs
 ```
 *O si prefieres yarn:*
 ```bash
-yarn add github:Ryze/Ryze
+yarn add baileysxs
 ```
 
 ---
